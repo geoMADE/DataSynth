@@ -1,5 +1,5 @@
 # DataSynth
-Repo for software to produce synthetic data.
+Repository for software to produce synthetic data.
 
 
 ### Contents
